@@ -1,0 +1,26 @@
+.statistiques-container {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.statistique {
+  background-color: #f5f5f5;
+  border: 2px solid #0a6e31;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  width: 150px;
+}
+
+.statistique-chiffre {
+  font-size: 2.5rem;
+  color: #0a6e31;
+  margin: 0;
+}
+
+.statistique-label {
+  font-size: 1rem;
+  color: #333;
+  margin: 5px 0 0 0;
+}
