@@ -1,5 +1,5 @@
 .header {
-  background-color: #0a6e31;
+  background-color: #0a396e;
   color: white;
   padding: 20px;
   text-align: center;
@@ -14,4 +14,10 @@
   margin: 5px 0 0 0;
   font-size: 1rem;
   opacity: 0.9;
+}
+.header {
+  background: linear-gradient(135deg, #1a3a6e, #2e6dbf);
+  color: white;
+  padding: 20px;
+  text-align: center;
 }

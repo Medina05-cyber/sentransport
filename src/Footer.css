@@ -1,12 +1,13 @@
 .footer {
-  background-color: #333333;
+  background: linear-gradient(135deg, #1a3a6e, #2e6dbf);
   color: white;
   text-align: center;
-  padding: 20px;
+  padding: 25px;
   margin-top: 50px;
 }
 
 .footer p {
   margin: 0;
   font-size: 0.9rem;
+  opacity: 0.9;
 }

@@ -13,3 +13,12 @@
   gap: 20px;
   margin-top: 30px;
 }
+.contenu p {
+  color: #6b7280;
+  font-size: 1.1rem;
+}
+.contenu {
+  padding: 20px;
+  max-width: 800px;
+  margin: 40px auto 0 auto;
+}
